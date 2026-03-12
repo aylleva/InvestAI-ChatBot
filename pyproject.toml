@@ -1,0 +1,15 @@
+[project]
+name = "llm-engineering"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.84.0",
+    "chromadb>=1.5.1",
+    "datasets>=4.6.0",
+    "httpx>=0.28.1",
+    "numpy>=2.4.2",
+    "openai>=2.24.0",
+    "pandas>=3.0.1",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+]
