@@ -1,0 +1,31 @@
+📊 InvestAI Chat Bot
+📌 About
+
+InvestAI Chat Bot is an intelligent assistant designed to help users explore and understand the stock market in a simple and interactive way. 
+It provides real-time financial data, market insights, and sentiment analysis for specific stock tickers.
+The bot is built to support both beginners and experienced investors by delivering key stock metrics and relevant news in an easy-to-digest format.
+
+Features:
+
+📈 Real-Time Stock Data
+Open, High, Low, Close prices
+Trading volume
+📰 Financial News
+Latest news for selected stock tickers
+💬 Sentiment Analysis
+Analyze market sentiment based on news data
+⚡ Fast & Interactive Chat Interface
+
+Future Improvements:(Important!!)
+Integration of RAG (Retrieval-Augmented Generation) for smarter responses
+Enhanced prediction and analytics features
+Portfolio tracking capabilities
+Personalized investment insights
+
+Tech Stack:
+Python
+APIs for real-time stock data by "MASSIVE"
+Chatbot framework by Gradio
+Ai-Frontier model by OpenAI -brend new GPT 5.4-the fastest one!
+
+
